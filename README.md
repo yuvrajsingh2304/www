@@ -1,2 +1,2 @@
 # www
-Personal Websote
+Personal Website
