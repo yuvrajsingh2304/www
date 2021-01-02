@@ -1,6 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Yuvraj Singh"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Assistant Professor
+Department of Civil Engineering, 
+Guru Nanak Dev Engineering College, Ludhiana"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog with some of my work in progress.
