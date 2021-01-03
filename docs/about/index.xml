@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Yuvraj Singh</title>
-    <link>https://yuvrajsingh2304.github.io/about/</link>
+    <link>https://yuvrajsingh2304.github.io/www/about/</link>
     <description>Recent content in About on Yuvraj Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yuvrajsingh2304.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yuvrajsingh2304.github.io/www/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
