@@ -1,17 +1,17 @@
 title = "Yuvraj Singh"
 
 # 1. Replace hsrai with your userID on code.gndec.ac.in server
-# baseURL = "http://code.gndec.ac.in/~yuvrajsingh/www"
+#baseURL = "http://code.gndec.ac.in/~yuvrajsingh/www"
 # 2. Type # at the beginning of above line
 
 # 2. Remove # from line below and replace hsrai with your userID at github 
-baseURL = "https://yuvrajsingh2304.github.io/"
+baseURL = "https://yuvrajsingh2304.github.io"
 
 # 2. Remove # from line below
 publishDir = "docs"
 
 # 2. Type # at the beginning of line below
-# publishDir = "../public_html/www"
+#publishDir = "../public_html/www"
 
 languageCode = "en-us"
 theme = "ananke"
@@ -31,19 +31,19 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "Assistant Professor & PhD Research Scholar"
-  facebook = "https://www.facebook.com/yuvraj.singh.56481379/"
-  twitter = ""
-  instagram = "https://www.instagram.com/yuvrajsingh_23/"
+  description = "Master trainer: Empowering Folk"
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
   youtube = ""
-  github = "https://github.com/yuvrajsingh2304"
+  github = ""
   gitlab = ""
-  linkedin = "https://www.linkedin.com/in/yuvraj-singh-8a6a6164/"
+  linkedin = ""
   mastodon = ""
   slack = ""
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-washed-green"
+  background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
