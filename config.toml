@@ -31,12 +31,12 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "Master trainer: Empowering Folk"
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  description = "Assistant Professor, Department of Civil Engineering, Guru Nanak Dev Engineering College, Ludhiana"
+  facebook = "https://www.facebook.com/yuvraj.singh.56481379/"
+  twitter = ""
+  instagram = "https://www.instagram.com/yuvrajsingh_23/"
   youtube = ""
-  github = ""
+  github = "https://github.com/yuvrajsingh2304"
   gitlab = ""
   linkedin = ""
   mastodon = ""
@@ -44,6 +44,7 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-washed-blue"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
